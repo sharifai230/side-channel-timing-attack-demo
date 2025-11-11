@@ -1,0 +1,5 @@
+{
+  "name": "Side-Channel Timing Attack Demo",
+  "description": "An interactive web application demonstrating how a side-channel timing attack can exploit a vulnerable HMAC signature verification process to recover a secret key, byte by byte. The app visualizes the timing differences for each guessed byte in real-time.",
+  "requestFramePermissions": []
+}
